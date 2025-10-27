@@ -10,7 +10,7 @@
 따뜻한 코드와 따뜻한 마음을 가진 개발자가 되고 싶어요 💗
 
 ---
-<img src="https://img.shields.io/badge/배우는중-핑크?style=flat-square&logo=github&logoColor=white&color=FFB6C1" />
+<img src="https://img.shields.io/badge/요즘 뱌우는 것들-핑크?style=flat-square&logo=github&logoColor=white&color=FFB6C1" />
 
 ## 🎯 요즘 배우는 것들
 - C 언어, Java, Python  
@@ -18,7 +18,7 @@
 - AISW 수학, 기초 알고리즘
 
 ---
-<img src="https://img.shields.io/badge/배우는중-핑크?style=flat-square&logo=github&logoColor=white&color=FFB6C1" />
+<img src="https://img.shields.io/badge/활동-핑크?style=flat-square&logo=github&logoColor=white&color=FFB6C1" />
 
 ## 📚 활동
 - `del 랩실`에서 다양한 경험 쌓는 중  
@@ -26,7 +26,7 @@
 - `2025년 SW 중심대학 AI 창업 아이디어 경진대회` 참가상 수상
 
 ---
-<img src="https://img.shields.io/badge/배우는중-핑크?style=flat-square&logo=github&logoColor=white&color=FFB6C1" />
+<img src="https://img.shields.io/badge/취미와 성격-핑크?style=flat-square&logo=github&logoColor=white&color=FFB6C1" />
 
 ## 💖 취미 & 성격
 - 조용하지만 사람 만나는 걸 좋아해요  
@@ -34,7 +34,7 @@
 - 핑크색과 따뜻한 분위기를 좋아해요 🌷
 
 ---
-<img src="https://img.shields.io/badge/배우는중-핑크?style=flat-square&logo=github&logoColor=white&color=FFB6C1" />
+<img src="https://img.shields.io/badge/연락처-핑크?style=flat-square&logo=github&logoColor=white&color=FFB6C1" />
 
 ## 📫 연락처
 - 이메일: **lsch4435@gmail.com**  
