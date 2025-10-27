@@ -1,4 +1,4 @@
-# 👋 안녕하세요 저는 이정진입니다.
+# 👋 안녕하세요! 저는 한신대학교 AISW 학과 1학년 이정진입니다.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jeongjin's%20Profile&fontSize=90" />
@@ -13,10 +13,20 @@
 
 <br/>
 
-## 🛠️ Skills
+## 📚 학업 외 활동  
+- del 랩실 활동 중
+- NEXUS 프로그램  활동 중
+- [[2025년 SW 중심대학 AI 창업 아이디어 경진대회]] 참가 하여 참가상을 받음
 
-*   **Languages:** `[Korean]`
   
+<br/>
+
+## 💡 취미 & 성격  
+
+ 저는 조용하지만 사람을 사귀는 것을 좋아하며 다양한 사람을 만나는 것을 좋아합니다 
+ 제 MBTI 는 INFP 입니다 
+ 저는 책 읽는 것을 좋아합니다 
+
 
 <br/>
 
