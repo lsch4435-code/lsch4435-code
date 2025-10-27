@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 이정진입니다.
+# 👋 안녕하세요 저는 이정진입니다.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jeongjin's%20Profile&fontSize=90" />
@@ -17,16 +17,6 @@
 
 *   **Languages:** `[Korean]`
   
-
-<br/>
-
-## 📂 Projects
-
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| `[프로젝트 이름]` | `[프로젝트에 대한 간략한 설명]` | `[프로젝트 링크]` |
-| `[프로젝트 이름]` | `[프로젝트에 대한 간략한 설명]` | `[프로젝트 링크]` |
-| `[프로젝트 이름]` | `[프로젝트에 대한 간략한 설명]` | `[프로젝트 링크]` |
 
 <br/>
 
