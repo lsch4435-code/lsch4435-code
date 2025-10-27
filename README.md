@@ -33,7 +33,7 @@
 ## 💖 취미 & 성격
 - 비록 처음엔 낯을 가려 조용하지만 새로운 사람을 만나는 걸 좋아합니다 
 - 취미는 책 읽으면서 상상을 펼치는 걸 좋아합니다.  
-- 핑크색과 따뜻한 분위기를 좋아해요 🌷
+- MBTI는 INFPP 입니다 🌷
 
 ---
 <img src="https://img.shields.io/badge/연락처-핑크?style=flat-square&logo=github&logoColor=white&color=FFB6C1" />
