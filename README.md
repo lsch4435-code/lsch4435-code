@@ -4,12 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jeongjin's%20Profile&fontSize=90" />
 </p>
 
-## 👨‍💻 About Me
+## 소개
 
-- 🏫 **저는 **한신대학교 AISW학과**에 재학 중입니다.
-- 🌱 저는 **[인공지능, 웹개발]** 에 관심이 많습니다.
-- 🤔 **[C 언어, 자바, 파이썬, aisw 수학, 웹 프로그래밍]** 에 대해 배우고 있습니다.
-- 📫 **[lsch4435@gmail.com]** 로 연락주세요.
+-  저는 **한신대학교 AISW학과**에 재학 중입니다.
+-  저는 **[인공지능, 웹개발]** 에 관심이 많습니다.
+-  **[C 언어, 자바, 파이썬, aisw 수학, 웹 프로그래밍]** 에 대해 배우고 있습니다.
+-  **[lsch4435@gmail.com]** 로 연락주세요.
 
 <br/>
 
@@ -20,9 +20,9 @@
 
 <br/>
 
-## 📞 Contact
+## 📞 연락처
 
-- **Email:** `[lsch4435@gmail.com]`
+- **메일:** `[lsch4435@gmail.com]`
 
 
 <p align="center">
