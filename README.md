@@ -40,6 +40,9 @@
 - 비록 처음엔 낯을 가려 조용하지만 새로운 사람을 만나는 걸 좋아합니다.  
 - 취미는 책 읽으면서 상상을 펼치는 걸 좋아합니다.  
 - MBTI는 INFP 입니다 🌷
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jeongjin's%20Profile&fontSize=80&fontColor=ffffff" />
+</p>
 
 ---
 
