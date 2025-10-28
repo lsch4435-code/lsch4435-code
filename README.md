@@ -57,9 +57,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&theme=radical&title_color=FFB6C1&text_color=FFB6C1" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&title_color=FFB6C1&text_color=FFB6C1" />
-</p>
+![C Language](https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c&logoColor=white)
+<\p>
 
 ---
 <p align="center">
