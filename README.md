@@ -41,8 +41,9 @@
 ## 📫 연락처
 - 이메일: **lsch4435@gmail.com**  
 - 포트폴리오: [내 포트폴리오 보기](https://lsch4435-code.github.io/lsch4435-portfolio/)
-- 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&theme=radical&title_color=ffffff)
+
+  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&theme=radical&title_color=FFB6C1)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=footer"/>
