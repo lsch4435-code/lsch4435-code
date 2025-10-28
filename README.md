@@ -25,7 +25,7 @@
 - `del 랩실`에서 다양한 활동 참여 중  
 - `NEXUS 프로그램` 참여 중  
 - `2025년 SW 중심대학 AI 창업 아이디어 경진대회` 참가상 수상
-- 배드민턴 동아리 참여중
+
 
 ---
 <img src="https://img.shields.io/badge/취미와 성격-핑크?style=flat-square&logo=github&logoColor=white&color=FFB6C1" />
@@ -33,7 +33,7 @@
 ## 💖 취미 & 성격
 - 비록 처음엔 낯을 가려 조용하지만 새로운 사람을 만나는 걸 좋아합니다 
 - 취미는 책 읽으면서 상상을 펼치는 걸 좋아합니다.  
-- MBTI는 INFPP 입니다 🌷
+- MBTI는 INFP 입니다 🌷
 
 ---
 <img src="https://img.shields.io/badge/연락처-핑크?style=flat-square&logo=github&logoColor=white&color=FFB6C1" />
